@@ -46,7 +46,7 @@ A Raspberry Pi-based mobile robot with:
 ## Team Members
 - Aysha Fahed Oqdeh – afoqdeh21@cit.just.edu.jo
 - Shahad Ehab Alnatsheh – sealnatsheh21@cit.just.edu.jo
-- Razan Ma'moon Khassawneh – rmkhassawneh21@cit,just.edu.jo 
+- Razan Ma'moon Khassawneh – rmkhassawneh21@cit.just.edu.jo 
 - Roa’a Moutaz Hamudeh – rmhamudeh21@cit.just.edu.jo
 
 Supervised by Dr. Qasem Abu Al-Haija
