@@ -1,9 +1,0 @@
-GUI r
-DELAY 1000
-STRING notepad.exe
-DELAY 100
-ENTER
-DELAY 3000
-STRING Jordan university of science and technology, cybersecurity department
-DELAY 100
-STRING Hello , we want to hijack your mouse in order to collect data for our IDS, don't panic, and we want to collect keystrokes and mouse movments so goodbye for now the attack will end
