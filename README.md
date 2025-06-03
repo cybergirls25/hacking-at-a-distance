@@ -44,10 +44,10 @@ A Raspberry Pi-based mobile robot with:
 ---
 
 ## Team Members
-- Aysha Fahed Oqdeh – Project Leader & Attack Specialist  
-- Shahad Ehab Alnatsheh – Hardware & Navigation  
-- Razan Ma'moon Khassawneh – Cybersecurity & Defense Analyst  
-- Roa’a Moutaz Hamudeh – Software & UI Developer  
+- Aysha Fahed Oqdeh – afoqdeh21@cit.just.edu.jo
+- Shahad Ehab Alnatsheh – sealnatsheh21@cit.just.edu.jo
+- Razan Ma'moon Khassawneh – rmkhassawneh21@cit,just.edu.jo 
+- Roa’a Moutaz Hamudeh – rmhamudeh21@cit.just.edu.jo
 
 Supervised by Dr. Qasem Abu Al-Haija
 
