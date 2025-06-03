@@ -1,12 +1,11 @@
-# IDS
+# MouseJack
 
-This folder includes scripts and data used to implement a rule-based Intrusion Detection System (IDS) for detecting wireless USB-based attacks.
+This folder contains files related to the simulation and data collection of MouseJack wireless USB injection attacks.
 
 ## Contents
-- `Rule_Based_IDS.py` – Core script that defines rules to detect suspicious USB behavior such as MouseJack and HID injection attacks.
-- `data_combined.csv` – A combined dataset containing both benign and malicious USB activity used for detection and evaluation.
-- `full_IDS.ipynb` – Jupyter Notebook version of the IDS implementation, with visualizations and step-by-step analysis.
-- `README.md` – Documentation describing the IDS project and its components.
+- `collect maliciouse data 1.txt` – Log file containing recorded output from a MouseJack attack scenario.
+- `collect maliciouse data 2.txt` – Additional log data from a separate or extended MouseJack attack session.
+- `attacked.html` – A sample HTML file representing the result or payload execution of a successful MouseJack attack.
+- `capture data.py` – Python script used to capture and log USB HID packets or interactions during the attack.
 
-These files are part of a system designed to detect wireless-based USB threats using rule-based logic and behavioral patterns.
-
+These files are used to support the research, demonstration, and detection of MouseJack-based HID injection attacks.
